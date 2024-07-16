@@ -5,5 +5,10 @@
   "description": "Web scraper built with Cloudflare Workers utilizing HTMLRewriter.",
   "main": "index.js",
   "author": "Adam Schwartz <adam.flynn.schwartz@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "@cloudflare/wrangler": "^1.21.0",
+    "wrangler": "^3.58.0",
+    "wrnagler": "^1.0.0"
+  }
 }
